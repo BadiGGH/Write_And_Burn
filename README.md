@@ -1,5 +1,5 @@
 # Write And Burn
-**A simple shell script that creates text files and then burns them. (yeah, like that book)**
+**A shell script that creates a text file and then burns the content. (yeah, like that book)**
 ## Usage:
 Simply clone this repository and run the script.
 
@@ -10,5 +10,4 @@ Simply clone this repository and run the script.
 
 
 ### ToDo:
-- [ ] writing the script
-- [ ] working on a file, containing of useful alises
+
