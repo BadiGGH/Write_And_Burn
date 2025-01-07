@@ -10,4 +10,8 @@ Simply clone this repository and run the script.
 
 
 ### ToDo:
+[ ] Complete the burn function
+[ ] Making outputs smooth
+[ ] Looking through best practices
+
 
